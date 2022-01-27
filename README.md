@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Amazon cloud Practioner.
 - 🚀I'm also creating my Portfolio using HTML and CSS only.
 - ✨ I am curious to learn new things on Github as previously I was using Subversion for Version control.
-- 📫 You can reach me on chintan.kharadi@gmail.com for more conversation.
+- 📫 You can reach out to me on chintan.kharadi@gmail.com for more conversation.
 
 <!---
 ChintanKharadi/ChintanKharadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
